@@ -14,6 +14,6 @@ click 'save' to capture the result to clipboard.
 
 ###preview
 
-![image](https://github.com/rugbbyli/ShudooCalc/master/1.png)
+![image](https://github.com/rugbbyli/ShudooCalc/blob/master/1.png)
 
-![image](https://github.com/rugbbyli/ShudooCalc/master/2.png)
+![image](https://github.com/rugbbyli/ShudooCalc/blob/master/2.png)
